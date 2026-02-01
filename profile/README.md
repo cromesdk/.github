@@ -7,6 +7,15 @@
 template-generator is a high-performance CLI utility designed to automate the process of project scaffolding and boilerplate generation. By leveraging the power of **Jinja2** templates and JSON-based configuration, it allows developers to define complex file structures and render them dynamically with precision. Whether you are bootstrapping a new microservice or generating repetitive library components, this tool ensures consistency and saves significant manual effort.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)
+
+![Python Version](https://img.shields.io/badge/python-3.14+-blue.svg)
+![Poetry](https://img.shields.io/badge/managed%20by-poetry-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+
+## @cromesdk/typescript-library-generator
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)
 
 ![Python Version](https://img.shields.io/badge/python-3.14+-blue.svg)
 ![Poetry](https://img.shields.io/badge/managed%20by-poetry-blue)
