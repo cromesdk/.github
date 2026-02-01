@@ -18,10 +18,10 @@ A high-performance Python CLI utility designed to automate the scaffolding of Ty
 
 A high-performance, developer-focused encryption module for NestJS applications. This library provides a seamless wrapper around bcryptjs, offering ready-to-use services for secure secret hashing and verification with full TypeScript support and integrated environment configuration.
 
-[TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
-[Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white)
-[Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
-[Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+![Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=fff)
 
 ![License](https://img.shields.io/badge/license-MIT-green)
 
