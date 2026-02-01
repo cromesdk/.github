@@ -1,4 +1,4 @@
-<p align="center">
+<p text-align="center">
   <h1>CromeSDK</h1>
 </p>
 
