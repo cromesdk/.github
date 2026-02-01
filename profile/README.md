@@ -1,6 +1,6 @@
-<p text-align="center">
+<div style="text-align:center">
   <h1>CromeSDK</h1>
-</p>
+</div>
 
 <p align="center">
   <img src="./logo.png" alt="Logo" style="width:640px; height:640px;" />
@@ -14,9 +14,9 @@ At its core, CromeSDK focuses on three things:
 - Speed: generate boilerplate in seconds, avoid re-implementing solved problems.
 - Quality: defaults geared toward modern DX—linting, testing, configuration hygiene, and clean architecture patterns.
 
-# Python
+## Python
 
-## @cromesdk/template-generator
+### @cromesdk/template-generator
 
 template-generator is a high-performance CLI utility designed to automate the process of project scaffolding and boilerplate generation. By leveraging the power of **Jinja2** templates and JSON-based configuration, it allows developers to define complex file structures and render them dynamically with precision. Whether you are bootstrapping a new microservice or generating repetitive library components, this tool ensures consistency and saves significant manual effort.
 
@@ -27,7 +27,7 @@ template-generator is a high-performance CLI utility designed to automate the pr
 ![Poetry](https://img.shields.io/badge/managed%20by-poetry-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-## @cromesdk/typescript-library-generator
+### @cromesdk/typescript-library-generator
 
 typescript-library-generator is a professional-grade scaffolding engine written in Python, designed to automate the creation of standardized, production-ready TypeScript libraries. By leveraging Jinja2 templating and a structured input system, it generates a complete development environment including test suites, build configurations, and linting rules in seconds.
 
@@ -38,9 +38,9 @@ typescript-library-generator is a professional-grade scaffolding engine written 
 ![Poetry](https://img.shields.io/badge/managed%20by-poetry-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-# Typescript
+## Typescript
 
-## @cromesdk/encryption
+### @cromesdk/encryption
 
 A high-performance, developer-focused encryption module for NestJS applications. This library provides a seamless wrapper around bcryptjs, offering ready-to-use services for secure secret hashing and verification with full TypeScript support and integrated environment configuration.
 
@@ -51,7 +51,7 @@ A high-performance, developer-focused encryption module for NestJS applications.
 
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-## @cromesdk/environment
+### @cromesdk/environment
 
 A high-performance NestJS utility designed to manage environment configurations with strict runtime validation. Built with TypeScript, it provides a globalized service and utility suite for automated .env management and typed access to critical application variables.
 
@@ -62,7 +62,7 @@ A high-performance NestJS utility designed to manage environment configurations 
 
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-## @cromesdk/logger
+### @cromesdk/logger
 
 A high-performance, Winston-backed logging module for NestJS applications. This project provides a production-ready logging infrastructure that integrates seamlessly with the NestJS dependency injection system, offering structured JSON logging for cloud environments and colorized console output for local development.
 
@@ -73,7 +73,7 @@ A high-performance, Winston-backed logging module for NestJS applications. This 
 
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-## @cromesdk/rbac-backend-template
+### @cromesdk/rbac-backend-template
 
 A high-performance enterprise backend architecture built with Node.js, NestJS, and Prisma. This project implements a sophisticated Role-Based Access Control (RBAC) system featuring granular permissions, group-role hierarchies, and automated database orchestration using SQLite.
 
@@ -87,7 +87,7 @@ A high-performance enterprise backend architecture built with Node.js, NestJS, a
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 
-## @cromesdk/swagger
+### @cromesdk/swagger
 
 An enterprise-grade utility module for NestJS that streamlines the integration and management of OpenAPI (Swagger) documentation. It utilizes an environment-driven approach via the NestJS ConfigService to dynamically mount and configure the Swagger UI with minimal code intervention.
 
@@ -99,11 +99,9 @@ An enterprise-grade utility module for NestJS that streamlines the integration a
 
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-## @cromesdk/template
+### @cromesdk/template
 
 Developing high-quality TypeScript libraries requires more than just code; it requires a robust ecosystem of tooling for bundling, testing, and documentation. This project provides a professional-grade boilerplate designed for developers who want to build, test, and ship modern Node.js packages with zero friction.
-
-
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
