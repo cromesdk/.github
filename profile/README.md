@@ -14,6 +14,9 @@ template-generator is a high-performance CLI utility designed to automate the pr
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 ## @cromesdk/typescript-library-generator
+
+typescript-library-generator is a professional-grade scaffolding engine written in Python, designed to automate the creation of standardized, production-ready TypeScript libraries. By leveraging Jinja2 templating and a structured input system, it generates a complete development environment including test suites, build configurations, and linting rules in seconds.
+
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)
 
