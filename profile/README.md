@@ -4,14 +4,13 @@
 
 ## @cromesdk/tslibgen
 
-# Typescript
-
 A high-performance Python CLI utility designed to automate the scaffolding of TypeScript libraries. By leveraging Jinja2 templates and JSON-based configurations, TSLibGen provides a standardized way to generate consistent project structures, reducing boilerplate and ensuring architectural integrity across development teams.
 
 ![Python Version](https://img.shields.io/badge/python-3.14+-blue.svg)
 ![Poetry](https://img.shields.io/badge/managed%20by-poetry-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+# Typescript
 
 ## @cromesdk/encryption
 
