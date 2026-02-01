@@ -1,5 +1,13 @@
 ![Logo](./logo.png)
 
+CromeSDK is a cohesive framework of multi-languange and production-ready repositories. It’s designed to help you ship consistent, secure, and maintainable projects faster—by combining opinionated scaffolding with reusable runtime modules.
+
+At its core, CromeSDK focuses on three things:
+
+- Standardization: repeatable project structure, conventions, and tooling across repositories.
+- Speed: generate boilerplate in seconds, avoid re-implementing solved problems.
+- Quality: defaults geared toward modern DX—linting, testing, configuration hygiene, and clean architecture patterns.
+
 # Python
 
 ## @cromesdk/template-generator
