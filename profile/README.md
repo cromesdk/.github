@@ -1,5 +1,3 @@
-# CromeSDK
-
 <p align="center">
   <img src="./logo.png" alt="Logo" style="width:640px; height:640px;" />
 </p>
