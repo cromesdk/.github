@@ -1,4 +1,4 @@
-![Logo](./logo.png){ width=50% }
+<img src="./logo.png" alt="Logo" style="width:200px; height:auto;" />
 
 CromeSDK is a cohesive framework of multi-languange and production-ready repositories. It’s designed to help you ship consistent, secure, and maintainable projects faster—by combining opinionated scaffolding with reusable runtime modules.
 
