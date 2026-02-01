@@ -2,9 +2,9 @@
 
 # Python
 
-## @cromesdk/tslibgen
+## @cromesdk/template-generator
 
-A high-performance Python CLI utility designed to automate the scaffolding of TypeScript libraries. By leveraging Jinja2 templates and JSON-based configurations, TSLibGen provides a standardized way to generate consistent project structures, reducing boilerplate and ensuring architectural integrity across development teams.
+template-generator is a high-performance CLI utility designed to automate the process of project scaffolding and boilerplate generation. By leveraging the power of **Jinja2** templates and JSON-based configuration, it allows developers to define complex file structures and render them dynamically with precision. Whether you are bootstrapping a new microservice or generating repetitive library components, this tool ensures consistency and saves significant manual effort.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 
